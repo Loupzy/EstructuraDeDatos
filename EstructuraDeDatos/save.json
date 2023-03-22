@@ -1,0 +1,11 @@
+{
+    "player": {
+        "health": 40,
+        "name": "Player 2",
+        "score": 420,
+        "weapon": {
+            "name": "Rifle",
+            "value": 25
+        }
+    }
+}
